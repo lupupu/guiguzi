@@ -1,6 +1,19 @@
+
+Table of Contents
+=================
+
+  * [鬼谷子·捭阖]()
+     * [原文：]()
+     * [译文：]()
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 # guiguzi
 鬼谷子
+
 ## 鬼谷子·捭阖
+
+
 ### 原文：
 源自[古诗文网](https://so.gushiwen.org/guwen/bookv_3287.aspx)
 
