@@ -2,9 +2,9 @@
 Table of Contents
 =================
 
-  * [鬼谷子·捭阖]()
-     * [原文：]()
-     * [译文：]()
+  * [鬼谷子·捭阖](#鬼谷子捭阖)
+     * [原文：](#原文：)
+     * [译文：](#译文：)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
