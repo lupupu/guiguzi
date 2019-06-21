@@ -6,7 +6,6 @@
      * [译文：](#译文)
 	 * [我的收获:](#我的收获)
 
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 # guiguzi
 鬼谷子
